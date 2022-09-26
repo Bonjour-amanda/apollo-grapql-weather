@@ -27,4 +27,4 @@ export const GET_WEATHER_QUERY = gql`
             }
         }
     }
-`
+`;

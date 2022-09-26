@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@apollo/client": "^3.6.9",
+    "@titelmedia/react-apollo-multiple-clients": "^4.0.5",
+    "apollo-boost": "^0.4.9",
     "graphql": "^16.6.0",
     "react": "^18.2.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
